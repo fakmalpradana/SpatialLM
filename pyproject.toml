@@ -26,8 +26,8 @@ shapely = "^2.0.7"
 bbox = "^0.9.4"
 terminaltables = "^3.1.10"
 open3d = "^0.18.0"
-nvidia-cudnn-cu12 = "*"
-nvidia-nccl-cu12 = "*"
+# nvidia-cudnn-cu12 = "*"
+# nvidia-nccl-cu12 = "*"
 poethepoet = { extras = ["poetry-plugin"], version = "^0.33.1" }
 addict = "^2.4.0"
 
